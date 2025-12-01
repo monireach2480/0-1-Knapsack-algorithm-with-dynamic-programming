@@ -7,29 +7,7 @@
 ## Travelling Effectiveness with the 0-1 Knapsack Algorithm
 *A dynamic programming solution for optimizing airline luggage packing*
 
----
 
-## 📋 Project Information
-
-| Field | Details |
-|-------|---------|
-| **Course** | COSC251: Data Structure |
-| **Section** | 002 |
-| **Group** | Group 5 |
-| **Deadline** | November 27, 2025 |
-| **Institution** | American University of Phnom Penh (AUPP) |
-
----
-
-## 👥 Group Members
-
-- Ke Samrithvimean
-- Roath Kimhong
-- Len Monireach
-- Ing Menghong
-- Hong Sivhuy
-
----
 
 ## 🎯 Project Overview
 
